@@ -1,0 +1,15 @@
+build//home/cj/esp32/esp-idf/components/expat/library/xmlrole.o: \
+ /home/cj/esp32/esp-idf/components/expat/library/xmlrole.c \
+ /home/cj/esp32/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include/stddef.h \
+ /home/cj/esp32/esp-idf/components/expat/include/expat/expat_external.h \
+ /home/cj/esp32/esp-idf/components/expat/include/expat/internal.h \
+ /home/cj/esp32/esp-idf/components/expat/include/expat/xmlrole.h \
+ /home/cj/esp32/esp-idf/components/expat/include/expat/xmltok.h \
+ /home/cj/esp32/esp-idf/components/expat/include/expat/ascii.h
+ /home/cj/esp32/esp-idf/components/expat/library/xmlrole.c :
+ /home/cj/esp32/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include/stddef.h :
+ /home/cj/esp32/esp-idf/components/expat/include/expat/expat_external.h :
+ /home/cj/esp32/esp-idf/components/expat/include/expat/internal.h :
+ /home/cj/esp32/esp-idf/components/expat/include/expat/xmlrole.h :
+ /home/cj/esp32/esp-idf/components/expat/include/expat/xmltok.h :
+ /home/cj/esp32/esp-idf/components/expat/include/expat/ascii.h :
